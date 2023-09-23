@@ -125,7 +125,7 @@ input, select, textarea {
 }
 
 .ico {
-    width: 80px;
+    width: 1.2em;
 }
 
 .project-header {
@@ -1955,7 +1955,7 @@ input, select, textarea {
 
 	#nav {
 		text-align: center;
-		height: 3em;
+		height: 3.1em;
         margin: 1em;
         border-radius: 8px;
 		cursor: default;
@@ -2046,9 +2046,9 @@ input, select, textarea {
 				opacity: 1.0;
 			}
 
-				#nav a.active:after {
-					/* borderc-bottom-width: 0.5em; */
-				}
+				/* #nav a.active:after {
+					borderc-bottom-width: 0.5em;
+				} */
 
 		@media screen and (max-width: 980px) {
 
